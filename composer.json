@@ -1,0 +1,14 @@
+{
+  "name": "mazurva/css-print-framework",
+  "description": "Universal CSS for web printing",
+  "keywords": [
+    "css",
+    "js",
+    "print",
+    "framework"
+  ],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/mazurva/Hartija---CSS-Print-Framework/issues"
+  }
+}
